@@ -1,0 +1,8 @@
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.csproj.AssemblyReference.cache
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.AssemblyInfoInputs.cache
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.AssemblyInfo.cs
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.csproj.CoreCompileInputs.cache
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.MvcApplicationPartsAssemblyInfo.cs
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.MvcApplicationPartsAssemblyInfo.cache
+/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/Debug/net8.0/TransportManagement.Service.DAL.sourcelink.json

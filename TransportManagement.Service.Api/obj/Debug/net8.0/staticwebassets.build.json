@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "rl1ZAGZPZS510AsQsVhp+iRJo54cPT7DdPpyH9h1Qf8=",
+  "Source": "TransportManagement.Service.Api",
+  "BasePath": "_content/TransportManagement.Service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
