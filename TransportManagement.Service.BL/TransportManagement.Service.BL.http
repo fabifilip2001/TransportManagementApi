@@ -1,0 +1,6 @@
+@TransportManagement.Service.BL_HostAddress = http://localhost:5084
+
+GET {{TransportManagement.Service.BL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

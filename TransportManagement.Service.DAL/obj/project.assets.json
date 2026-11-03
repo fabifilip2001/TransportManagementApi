@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagementApi/TransportManagementApi.csproj",
-      "projectName": "TransportManagementApi",
-      "projectPath": "/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagementApi/TransportManagementApi.csproj",
+      "projectUniqueName": "/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/TransportManagement.Service.DAL.csproj",
+      "projectName": "TransportManagement.Service.DAL",
+      "projectPath": "/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/TransportManagement.Service.DAL.csproj",
       "packagesPath": "/Users/fabianf/.nuget/packages/",
-      "outputPath": "/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagementApi/obj/",
+      "outputPath": "/Users/fabianf/RiderProjects/TransportManagementApi/TransportManagement.Service.DAL/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/fabianf/.nuget/NuGet/NuGet.Config"

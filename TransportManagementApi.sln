@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportManagementApi", "TransportManagementApi\TransportManagementApi.csproj", "{D024F978-6EEC-4ECF-8777-333E8FE53316}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportManagement.Service.Api", "TransportManagement.Service.Api\TransportManagement.Service.Api.csproj", "{D024F978-6EEC-4ECF-8777-333E8FE53316}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportManagement.Service.DAL", "TransportManagement.Service.DAL\TransportManagement.Service.DAL.csproj", "{3B515A7F-C203-41CD-93A2-CEAB93FC282F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransportManagement.Service.BL", "TransportManagement.Service.BL\TransportManagement.Service.BL.csproj", "{5DA89CB0-907D-4B36-BADA-3B22E8AE3688}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +16,13 @@ Global
 		{D024F978-6EEC-4ECF-8777-333E8FE53316}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D024F978-6EEC-4ECF-8777-333E8FE53316}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D024F978-6EEC-4ECF-8777-333E8FE53316}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B515A7F-C203-41CD-93A2-CEAB93FC282F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B515A7F-C203-41CD-93A2-CEAB93FC282F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B515A7F-C203-41CD-93A2-CEAB93FC282F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B515A7F-C203-41CD-93A2-CEAB93FC282F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5DA89CB0-907D-4B36-BADA-3B22E8AE3688}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DA89CB0-907D-4B36-BADA-3B22E8AE3688}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DA89CB0-907D-4B36-BADA-3B22E8AE3688}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DA89CB0-907D-4B36-BADA-3B22E8AE3688}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

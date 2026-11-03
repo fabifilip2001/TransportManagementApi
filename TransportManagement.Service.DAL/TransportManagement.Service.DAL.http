@@ -1,0 +1,6 @@
+@TransportManagement.Service.DAL_HostAddress = http://localhost:5108
+
+GET {{TransportManagement.Service.DAL_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
