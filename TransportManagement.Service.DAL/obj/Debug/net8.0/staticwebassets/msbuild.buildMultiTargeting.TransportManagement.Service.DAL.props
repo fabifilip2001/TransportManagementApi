@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/TransportManagement.Service.DAL.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AZHEPXBhtlNQR8Ru128rEvLalTGTRdIrjPejvQO9uQE=",
+  "Source": "TransportManagement.Service.DAL",
+  "BasePath": "_content/TransportManagement.Service.DAL",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
